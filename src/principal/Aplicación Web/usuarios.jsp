@@ -8,8 +8,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Gestion usuario </h1>
-<h2>Titulo tres</h2>
+    <h1>Gestion usuario </h1><h3> agregando un  titulo tres</h3>
+    
+
 <%!String d="",n="",e="",p="",u=""; %>
 <%
 if(request.getParameter("d")!=null){
